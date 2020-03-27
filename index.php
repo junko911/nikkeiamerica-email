@@ -1,0 +1,1 @@
+<?php include_once("mailmagazine_001.html"); ?>
